@@ -1,4 +1,4 @@
-# I'm a Full-Stack Web Developer
+# I'm a Full-Stack Web Developer💻
 [![Islom97 github stats ](https://github-readme-stats.vercel.app/api?username=Islom97&show_icons=true&theme=github_dark&text_color=7DB9B8&border_color=5E88D0)](https://github.com/Islom97)
 
 
