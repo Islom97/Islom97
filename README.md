@@ -1,5 +1,5 @@
 # I'm a Full-Stack Web Developer
-[![Islom97 github stats ](https://github-readme-stats.vercel.app/api?username=Islom97&show_icons=true&theme=github_dark)](https://github.com/Islom97)
+[![Islom97 github stats ](https://github-readme-stats.vercel.app/api?username=Islom97&show_icons=true&theme=github_dark&text_color=7DB9B8)](https://github.com/Islom97)
 
 
 ### Languages and Tools
